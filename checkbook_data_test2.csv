@@ -1,0 +1,9 @@
+TRANS_ID,CATEGORY,AMOUNT,DESCR,DATETIME,BALANCE
+1001,Initial Deposit,0.01,DB Initialization,2023.2.14.11.37.,0.01
+1002,credit,54.10,sold lemonade,2023.2.14.13.52.,54.11
+1011,debit,2.50,bought coke,2023.2.14.13.56.,522.21
+1012,debit,500,car payment,2023.2.14.13.58.,22.21
+1013,credit,300.22,Sold a bunch of old comics,2023.2.14.15.34.,322.43
+1014,debit,100.00,bought old NES sstem,2023.2.14.15.35.,222.43
+1015,credit,500.00,paycheck for contract work,2023.2.14.15.37.,722.43
+1016,debit,34.00,went to movies,2023.2.14.16.18,688.43

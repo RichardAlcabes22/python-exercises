@@ -1,0 +1,11 @@
+TRANS_ID,CATEGORY,AMOUNT,DESCR,DATETIME,BALANCE
+1001,Initial Deposit,0.01,DB Initialization,2023.2.14.2.58.,0.01
+1002,d,300.99,Won again at casino,2023.2.14.3.0.,301.0
+1003,d,3.00,sold lemonade,2023.2.14.3.1.,304.0
+1004,d,120.55,raked leafs,2023.2.14.3.11.,424.55
+1005,credit,2.00,Bank fee returned,2023.2.14.3.14.,426.55
+1006,debit,221.56,Computer speakers/mike,2023.2.14.3.15.,204.99
+1007,credit,301.10,paycheck for working with Peter from the Aquarium,2023.2.14.3.24.,506.09
+1008,credit,2.50,sold a pencil,2023.2.14.3.39.,508.59
+1009,credit,40.00,sold bike,2023.2.14.3.41.,548.59
+1010,debit,23.88,bought baseball cards,2023.2.14.3.42.,524.71
